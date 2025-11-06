@@ -70,6 +70,6 @@ Siga os passos abaixo para rodar o projeto em seu ambiente local.
 
 ## 👨‍💻 Integrantes do Grupo
 
-* [Nome Completo do Aluno 1]
-* [Nome Completo do Aluno 2]
-* [Nome Completo do Aluno 3]
+* Raul Martins Rodrigues 04722-030
+* Marcelo Botelho de Freitas 04722-074
+* Maria Clara Crescenzio 04722-064
