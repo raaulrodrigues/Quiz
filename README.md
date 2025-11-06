@@ -1,6 +1,6 @@
 # 🚀 QuizApp - Projeto Final de React Native
 
-Este é um aplicativo de Quiz interativo desenvolvido como projeto final da disciplina de [NOME DA DISCIPLINA] do curso de [NOME DO SEU CURSO] da [NOME DA SUA UNIVERSIDADE].
+Este é um aplicativo de Quiz interativo desenvolvido como projeto final da disciplina de Des. Disp. Móveis II do curso de Sistema de Informação da UNIARA.
 
 O objetivo do projeto é demonstrar o ciclo de vida completo do desenvolvimento de software, incluindo planejamento, documentação (UML, Trello) e implementação de um aplicativo móvel funcional consumindo uma API REST.
 
